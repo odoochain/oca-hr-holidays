@@ -6,7 +6,7 @@
     "name": "HR Holidays Public",
     "version": "15.0.1.1.0",
     "license": "AGPL-3",
-    "category": "Human Resources",
+    "category": "Human Resources/Time Off",
     "author": "Michael Telahun Makonnen, "
     "Tecnativa, "
     "Fekete Mihai (Forest and Biomass Services Romania), "
